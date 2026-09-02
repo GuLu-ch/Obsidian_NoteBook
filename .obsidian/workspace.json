@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e214a723e27a3f7b",
+  "active": "c95ffdb2e6275b9f",
   "lastOpenFiles": [
     "个人笔记Note/GitHub 访问慢／下载超时：3 种简单解决方法.md",
     "README.md",
