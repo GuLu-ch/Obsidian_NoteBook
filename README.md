@@ -1,1 +1,1 @@
-"# Obsidian_NoteBook" 
+# Obsidian_NoteBook"
