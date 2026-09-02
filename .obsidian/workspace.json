@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "de7ae993576632ff",
+        "id": "8cbdbe43ca2f155c",
         "type": "tabs",
         "children": [
           {
-            "id": "e214a723e27a3f7b",
+            "id": "476a3f14e7c91fc6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -178,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c95ffdb2e6275b9f",
+  "active": "476a3f14e7c91fc6",
   "lastOpenFiles": [
     "个人笔记Note/GitHub 访问慢／下载超时：3 种简单解决方法.md",
     "README.md",
